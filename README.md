@@ -32,6 +32,12 @@ The data is structured as a star schema with two dimension tables and three fact
 
 ![ER Diagram](images/schema_diagram.png)
 
+<img width="745" height="382" alt="Screenshot 2026-06-12 192623" src="https://github.com/user-attachments/assets/81de9bd8-a351-4c68-9db5-a89190910c5d" />
+
+
+
+
+
 ---
 
 ## SQL Files
