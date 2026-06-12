@@ -120,6 +120,8 @@ The data is structured as a star schema with two dimension tables and three fact
 
 **Insight:** Orders peaked in October 2025 (413 orders), nearly doubling September's volume, then gradually declined through November and dropped sharply in December (173 orders) — possibly indicating a strong seasonal sales period (e.g., a festival or promotional campaign) in October followed by a post-peak slowdown.
 
+<img width="938" height="274" alt="Order trend" src="https://github.com/user-attachments/assets/db1ae358-7b31-4365-9ff0-c181643f910a" />
+
 ---
 ### Q5. What is the Completed, Pending & Cancelled Rate?
 
