@@ -86,6 +86,11 @@ The data is structured as a star schema with two dimension tables and three fact
 
 **Insight:** Barishal leads in both order volume (173 orders) and revenue (৳318,460), making it UrbanCart's strongest market — followed closely by Sylhet and Chattogram. Interestingly, Dhaka — often assumed to be the largest market — ranks lower (9th), suggesting UrbanCart's customer base is more spread across regional cities than concentrated in the capital.
 
+
+
+<img width="928" height="286" alt="CHART 2" src="https://github.com/user-attachments/assets/4c156122-39d4-4e8b-888c-95c86cb4e8e5" />
+<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/78102355-d205-4bbe-9940-7607f941cff3" />
+
 ---
 
 ### Q3. What percent of total customers use Gmail?
@@ -156,6 +161,11 @@ The data is structured as a star schema with two dimension tables and three fact
 | Poultry | 48,640 |
 
 **Insight:** Fashion (৳513,550) and Grocery (৳495,340) are UrbanCart's top two revenue-generating categories, together accounting for roughly 45% of total revenue. Electronics ranks third. Lower-volume categories like Snacks and Poultry contribute relatively little, suggesting either limited product range or lower customer demand in those areas.
+
+
+
+<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/69cf7695-d15d-414f-9cc7-74b3e939c454" />
+<img width="928" height="286" alt="CHART 2" src="https://github.com/user-attachments/assets/48950544-ebef-411a-88f0-4ccee39b6129" />
 
 ---
 
