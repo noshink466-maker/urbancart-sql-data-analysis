@@ -21,7 +21,7 @@ All analysis was performed using **PostgreSQL**. SQL scripts for every question 
 The data is structured as a star schema with two dimension tables and three fact tables.
 ## Database Schema
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](er_diagram.png)
 | Table | Description | Rows |
 |---|---|---|
 | `dimcustomers` | Customer details (name, gender, email, phone, city, signup date) | 100 |
