@@ -167,7 +167,7 @@ The data is structured as a star schema with two dimension tables and three fact
 
 
 
-<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/69cf7695-d15d-414f-9cc7-74b3e939c454" />
+
 <img width="928" height="286" alt="CHART 2" src="https://github.com/user-attachments/assets/48950544-ebef-411a-88f0-4ccee39b6129" />
 
 ---
