@@ -1,3 +1,5 @@
+<img width="928" height="286" alt="CHART 2" src="https://github.com/user-attachments/assets/a01ddb10-8c70-4f30-8492-69f7f7d40d88" />
+<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/7ed81e47-6e40-4744-9d65-44accf1cb9ce" />
 # UrbanCart SQL Data Analysis
 
 ## Project Overview
@@ -87,6 +89,8 @@ The data is structured as a star schema with two dimension tables and three fact
 **Insight:** Barishal leads in both order volume (173 orders) and revenue (৳318,460), making it UrbanCart's strongest market — followed closely by Sylhet and Chattogram. Interestingly, Dhaka — often assumed to be the largest market — ranks lower (9th), suggesting UrbanCart's customer base is more spread across regional cities than concentrated in the capital.
 
 
+
+<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/00adc6d1-f7a4-49c2-9cf8-e0be5a478720" />
 
 
 
