@@ -289,6 +289,7 @@ The data is structured as a star schema with two dimension tables and three fact
 | Male | Personal Care | 338 | 852 | 94,786 |
 
 **Insight:** Male customers generate higher revenue in every major category — most notably Grocery (৳304,106 vs ৳191,234) and Fashion (৳297,130 vs ৳216,420) — and also place significantly more orders overall (e.g., 681 vs 493 for Grocery). While female customers spend more per Fashion order on average, male customers drive higher total volume across nearly all categories. This suggests UrbanCart's male customer base is both larger and more frequent in purchasing, making them a key segment for retention efforts, while Fashion-focused promotions could help grow engagement among female customers.
+<img width="938" height="304" alt="Screenshot 2026-06-12 212335" src="https://github.com/user-attachments/assets/adb19727-a274-4a4b-ad2e-5b3cd0b4c229" />
 
 ---
 
