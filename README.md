@@ -88,8 +88,7 @@ The data is structured as a star schema with two dimension tables and three fact
 
 
 
-<img width="928" height="286" alt="CHART 2" src="https://github.com/user-attachments/assets/4c156122-39d4-4e8b-888c-95c86cb4e8e5" />
-<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/78102355-d205-4bbe-9940-7607f941cff3" />
+
 
 ---
 
