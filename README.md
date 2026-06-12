@@ -1,5 +1,4 @@
-<img width="928" height="286" alt="CHART 2" src="https://github.com/user-attachments/assets/a01ddb10-8c70-4f30-8492-69f7f7d40d88" />
-<img width="935" height="281" alt="CHART 1" src="https://github.com/user-attachments/assets/7ed81e47-6e40-4744-9d65-44accf1cb9ce" />
+
 # UrbanCart SQL Data Analysis
 
 ## Project Overview
