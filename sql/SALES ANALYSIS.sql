@@ -30,6 +30,16 @@ FROM factorders
 GROUP BY year, month
 ORDER BY year, month;
 
+-- 5. Completed, Pending & Cancelled Rate
+SELECT 
+    status,
+    COUNT(*) AS order_count,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage
+FROM factorders
+GROUP BY status
+ORDER BY order_count DESC;
+
+
 -- 6. Total revenue
 SELECT 
     SUM(oi.quantity * p.unit_price) AS total_revenue
