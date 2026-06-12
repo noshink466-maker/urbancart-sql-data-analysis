@@ -368,6 +368,7 @@ The data is structured as a star schema with two dimension tables and three fact
 | Debit Card | 63 | 5.25% |
 
 **Insight:** Cash on Delivery (COD) is by far the most popular payment method, used in 40.67% of all orders, followed by bKash (29.08%) and Nagad (19.58%) — together, these three methods account for nearly 90% of all transactions. Card payments (Credit + Debit) make up only about 10.7% combined, reflecting a strong preference for cash and mobile wallet payments in this market.
+<img width="787" height="265" alt="Screenshot 2026-06-12 212318" src="https://github.com/user-attachments/assets/269df7d5-e888-445e-8cf8-59717bc3f869" />
 
 ---
 
